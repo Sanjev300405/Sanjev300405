@@ -1,5 +1,5 @@
 <!-- ROYAL CAR THEME · gold #C9A24B / #E8C766 · midnight #07080D · burgundy accent #9B1B30 -->
-<!-- Needs assets/car-banner.svg, assets/divider.svg, assets/car-dashboard.svg in this same repo. -->
+<!-- Needs assets/car-banner.svg, assets/divider.svg, assets/heartbeat.svg in this same repo. -->
 
 <img src="assets/banner.svg" width="100%" alt="SANJEV royal car banner"/>
 
@@ -10,7 +10,7 @@
 ![Visitors](https://hits.sh/github.com/Sanjev300405.svg?style=for-the-badge&label=VISITORS&color=C9A24B&labelColor=07080D)
 ![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=8A6A1F&labelColor=07080D&label=FOLLOWERS)
 
-<img src="assets/car-dashboard.svg" width="100%" alt="car dashboard"/>
+<img src="assets/heartbeat.svg" width="100%" alt="car dashboard"/>
 
 </div>
 
