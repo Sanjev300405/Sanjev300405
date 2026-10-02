@@ -7,7 +7,7 @@
 ![Visitors](https://hits.sh/github.com/Sanjev300405.svg?style=for-the-badge&label=VISITORS&color=7CC4FF&labelColor=060914)
 ![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=A78BFA&labelColor=060914)
 
-<img src="assets/signal.svg" alt="Animated signal flow: data to analytics to CI/CD to deployed" width="100%">
+<img src="assets/Signal.svg" alt="Animated signal flow: data to analytics to CI/CD to deployed" width="100%">
 
 </div>
 
