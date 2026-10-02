@@ -1,53 +1,114 @@
-<Signaldiv align="center">
+<!--
+  LIQUID GLASS THEME · UI/UX designer
+  Needs these 4 files in an `assets` folder in this same repo:
+  assets/banner.svg · assets/divider.svg · assets/portfolio.svg · assets/heartbeat.svg
+  Palette: blue #0A84FF · purple #BF5AF2 · pink #FF375F · cyan #64D2FF · night #12142B
+-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1000&color=7CC4FF&center=true&vCenter=true&width=700&height=45&lines=Booting+Sanjev.exe...;data+%7C+fintech+%7C+devops+%7C+geospatial+AI;Status%3A+building+in+public)](https://github.com/Sanjev300405)
-
-[![Open dashboard](https://img.shields.io/badge/OPEN_LIVE_DASHBOARD-7CC4FF?style=for-the-badge&logo=githubpages&logoColor=060914&labelColor=060914)](https://sanjev300405.github.io/Sanjev300405/index.html)
-
-![Visitors](https://hits.sh/github.com/Sanjev300405.svg?style=for-the-badge&label=VISITORS&color=7CC4FF&labelColor=060914)
-![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=A78BFA&labelColor=060914)
-
-<img src="assets/Signal.svg" alt="Animated signal flow: data to analytics to CI/CD to deployed" width="100%">
-
-</div>
-
-## Profile
-
-```
-$ whoami
-sanjev
-
-$ cat profile.txt
-role     : student developer / builder
-focus    : data, fintech analytics, CI/CD, geospatial AI
-mindset  : ship a working version first, polish later
-status   : [ ONLINE ] building hackathon prototypes
-```
-
-## Projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [`_FINSHIELD_`](https://github.com/Sanjev300405/_FINSHIELD_) | ONE LINE: what it detects or protects | `Python` |
-| [`customer-churn-dashboard`](https://github.com/Sanjev300405/customer-churn-dashboard) | Shows which customers are likely to leave, and why | `Python` |
-| [`cicdpipeline`](https://github.com/Sanjev300405/cicdpipeline) | Automated build, test and deploy pipeline | `TypeScript` |
-
-## Toolchain
-
-![stack](https://skillicons.dev/icons?i=python,ts,docker,git,github,githubactions&theme=dark)
-
-## Stats
+<img src="assets/banner.svg" width="100%" alt="Sanjev, UI/UX designer, iOS Liquid Glass"/>
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Sanjev300405&show_icons=true&hide_border=true&bg_color=060914&title_color=7CC4FF&icon_color=A78BFA&text_color=E8EEFC&count_private=true&include_all_commits=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjev300405&layout=compact&hide_border=true&bg_color=060914&title_color=7CC4FF&text_color=E8EEFC)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=720&height=45&lines=Designing+interfaces+that+feel+alive.;iOS+Liquid+Glass+%C2%B7+Motion+%C2%B7+Design+systems;Idea+%E2%86%92+Wireframe+%E2%86%92+Prototype+%E2%86%92+Ship;Welcome+to+my+corner+of+GitHub.)](https://github.com/Sanjev300405)
 
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=060914&color=7CC4FF&line=A78BFA&point=F0ABFC&area=true&area_color=A78BFA&hide_border=true)
+![Visitors](https://hits.sh/github.com/Sanjev300405.svg?style=for-the-badge&label=VISITORS&color=0A84FF&labelColor=12142B)
+![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=BF5AF2&labelColor=12142B&label=FOLLOWERS)
 
 </div>
 
-## Contact
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7CC4FF?style=for-the-badge&logo=linkedin&logoColor=060914&labelColor=060914)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
-[![Email](https://img.shields.io/badge/EMAIL-A78BFA?style=for-the-badge&logo=gmail&logoColor=060914&labelColor=060914)](mailto:sanjevk2005@gmail.com)
+<!-- Replace the link below with your live portfolio URL if it is different -->
+<a href="https://sanjev300405.github.io/Sanjev300405/">
+  <img src="assets/portfolio.svg" width="100%" alt="Open my portfolio"/>
+</a>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ✦ Hello, I'm Sanjev
+
+I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, motion, and the calm of **iOS Liquid Glass**. I design clean systems first, then build prototypes that actually run.
+
+| | What I do | In practice |
+|:--|:--|:--|
+| 🎨 | **UI design** | Clean layouts, glass and depth, strong hierarchy |
+| 🧭 | **UX flows** | Research, user journeys, wireframes that make sense |
+| ✨ | **Motion** | Micro-interactions that explain, not distract |
+| 🧩 | **Design systems** | Tokens, components, consistent patterns |
+| ⚙️ | **Build & ship** | Python, TypeScript, CI/CD, data and fintech projects |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ◐ How I design
+
+| Principle | What it means |
+|:--|:--|
+| **Clarity first** | If a screen needs explaining, it isn't finished |
+| **Depth with purpose** | Light, blur and layers guide the eye; they never decorate |
+| **Motion that explains** | Movement shows what changed and what to do next |
+| **Accessible by default** | Strong contrast, comfortable tap targets, readable type |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## ⚙️ Under the hood
+
+| 🔹 Module | Readout |
+|:--|:--|
+| **Primary stack** | Python · TypeScript |
+| **Current mission** | Hackathon prototypes with real backend + frontend |
+| **Learning queue** | Explainable ML · CI/CD automation · quant risk models |
+
+## 🗂️ Case studies
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[`_FINSHIELD_`](https://github.com/Sanjev300405/_FINSHIELD_)** | ONE LINE: what it detects or protects | `Python` |
+| **[`customer-churn-dashboard`](https://github.com/Sanjev300405/customer-churn-dashboard)** | Shows which customers are likely to leave, and why | `Python` |
+| **[`cicdpipeline`](https://github.com/Sanjev300405/cicdpipeline)** | Automated build, test and deploy pipeline | `TypeScript` |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🧰 Toolkit
+
+<div align="center">
+
+<!-- Edit this list to the tools you really use: figma, ps, ai, xd, framer, html, css, js, ts, react, python, git, github -->
+![](https://skillicons.dev/icons?i=figma,ps,ai,framer,html,css,ts,python,git,github&theme=dark)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 🫀 The design heartbeat
+
+<img src="assets/heartbeat.svg" width="100%" alt="Research, wireframe, prototype, test, ship"/>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📊 Numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjev300405&show_icons=true&hide_border=false&border_color=2E3366&bg_color=12142B&title_color=0A84FF&icon_color=BF5AF2&text_color=E8ECFF&border_radius=24&count_private=true&include_all_commits=true&custom_title=Sanjev%27s%20GitHub%20stats" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjev300405&layout=compact&hide_border=false&border_color=2E3366&bg_color=12142B&title_color=0A84FF&text_color=E8ECFF&border_radius=24&custom_title=Top%20languages" alt="languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjev300405&background=12142B&ring=0A84FF&fire=FF375F&currStreakLabel=64D2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9FB4FF&dates=8E9BDA&stroke=2E3366&border=2E3366" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=12142B&color=64D2FF&line=0A84FF&point=FFFFFF&area=true&area_color=BF5AF2&hide_border=true&title_color=0A84FF&custom_title=Activity" alt="activity"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## 📫 Let's make something
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A84FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=12142B)](https://sanjev300405.github.io/Sanjev300405/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E5CE6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12142B)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
+[![Email](https://img.shields.io/badge/EMAIL-BF5AF2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12142B)](mailto:sanjevk2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FF375F?style=for-the-badge&logo=github&logoColor=white&labelColor=12142B)](https://github.com/Sanjev300405)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
