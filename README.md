@@ -1,7 +1,7 @@
 <!-- ROYAL CAR THEME · gold #C9A24B / #E8C766 · midnight #07080D · burgundy accent #9B1B30 -->
-<!-- Needs assets/car-banner.svg, assets/car-divider.svg, assets/car-dashboard.svg in this same repo. -->
+<!-- Needs assets/car-banner.svg, assets/divider.svg, assets/car-dashboard.svg in this same repo. -->
 
-<img src="assets/car-banner.svg" width="100%" alt="SANJEV royal car banner"/>
+<img src="assets/banner.svg" width="100%" alt="SANJEV royal car banner"/>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🏁 The Driver
 
@@ -29,7 +29,7 @@ mindset   : ship a working version first, polish later
 status    : [ ONLINE ]  building hackathon prototypes
 ```
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ⚙️ Under the hood
 
@@ -47,7 +47,7 @@ status    : [ ONLINE ]  building hackathon prototypes
 | **[`customer-churn-dashboard`](https://github.com/Sanjev300405/customer-churn-dashboard)** | Shows which customers are likely to leave, and why | `Python` |
 | **[`cicdpipeline`](https://github.com/Sanjev300405/cicdpipeline)** | Automated build, test and deploy pipeline | `TypeScript` |
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ The garage
 
@@ -57,7 +57,7 @@ status    : [ ONLINE ]  building hackathon prototypes
 
 </div>
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 Performance
 
@@ -72,7 +72,7 @@ status    : [ ONLINE ]  building hackathon prototypes
 
 </div>
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛣️ The road
 
@@ -83,7 +83,7 @@ status    : [ ONLINE ]  building hackathon prototypes
 
 </div>
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📫 Reserve a drive
 
@@ -95,4 +95,4 @@ status    : [ ONLINE ]  building hackathon prototypes
 
 </div>
 
-<img src="assets/car-divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
