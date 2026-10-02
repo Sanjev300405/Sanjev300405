@@ -78,8 +78,8 @@ status    : [ ONLINE ]  building hackathon prototypes
 
 <div align="center">
 
-<!-- Needs Snake gold gold-gold.yml (saved as .github/workflows/Snake gold.yml) to have run once. Until then this image is broken. -->
-<img src="https://raw.githubusercontent.com/Sanjev300405/Sanjev300405/output/github-Snake gold-dark.svg" alt="contribution Snake gold" width="100%"/>
+<!-- Needs snake gold-gold.yml (saved as .github/workflows/snake.yml) to have run once. Until then this image is broken. -->
+<img src="https://raw.githubusercontent.com/Sanjev300405/Sanjev300405/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
