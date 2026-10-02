@@ -1,4 +1,4 @@
-<div align="center">
+<Signaldiv align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1000&color=7CC4FF&center=true&vCenter=true&width=700&height=45&lines=Booting+Sanjev.exe...;data+%7C+fintech+%7C+devops+%7C+geospatial+AI;Status%3A+building+in+public)](https://github.com/Sanjev300405)
 
