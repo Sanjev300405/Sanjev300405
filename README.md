@@ -5,7 +5,7 @@
   Palette: blue #0A84FF · purple #BF5AF2 · pink #FF375F · cyan #64D2FF · night #12142B
 -->
 
-<img src="assets/Banner.svg" width="100%" alt="Sanjev, UI/UX designer, iOS Liquid Glass"/>
+<img src="assets/Banner.svg" width="100%" alt="Sanjev, UI/UX designer"/>
 
 <div align="center">
 
