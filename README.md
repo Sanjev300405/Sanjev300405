@@ -1,21 +1,22 @@
-<!-- CYBER RED · ANIMATED. Needs the /assets folder (banner.svg, divider.svg, heartbeat.svg) in this same repo. -->
+<!-- ROYAL CAR THEME · gold #C9A24B / #E8C766 · midnight #07080D · burgundy accent #9B1B30 -->
+<!-- Needs assets/car-banner.svg, assets/car-divider.svg, assets/car-dashboard.svg in this same repo. -->
 
-<img src="assets/banner.svg" width="100%" alt="SANJEV animated banner"/>
+<img src="assets/car-banner.svg" width="100%" alt="SANJEV royal car banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=FF0033&center=true&vCenter=true&width=700&height=45&lines=%3E_+booting+sanjev.exe...;%3E_+loading+modules%3A+data+%7C+fintech+%7C+devops;%3E_+status%3A+building+in+public;%3E_+access+granted.+welcome.)](https://github.com/Sanjev300405)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=900&color=E8C766&center=true&vCenter=true&width=700&height=45&lines=Starting+the+engine...;Loading+modules%3A+data+%7C+fintech+%7C+devops;Status%3A+building+in+public;Welcome+aboard.)](https://github.com/Sanjev300405)
 
-![Visitors](https://komarev.com/ghpvc/?username=Sanjev300405&label=VISITORS&color=FF0033&style=for-the-badge&labelColor=0D0208)
-![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=8B0000&labelColor=0D0208&label=FOLLOWERS)
+![Visitors](https://hits.sh/github.com/Sanjev300405.svg?style=for-the-badge&label=VISITORS&color=C9A24B&labelColor=07080D)
+![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=8A6A1F&labelColor=07080D&label=FOLLOWERS)
 
-<img src="assets/heartbeat.svg" width="100%" alt="heartbeat monitor"/>
+<img src="assets/car-dashboard.svg" width="100%" alt="car dashboard"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
 
-## `>_ whoami`
+## 🏁 The Driver
 
 ```bash
 $ whoami
@@ -28,27 +29,27 @@ mindset   : ship a working version first, polish later
 status    : [ ONLINE ]  building hackathon prototypes
 ```
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
 
-## ⚡ System status
+## ⚙️ Under the hood
 
-| 🔴 Module | Readout |
+| 🔱 Module | Readout |
 |:--|:--|
 | **Primary stack** | Python · TypeScript |
 | **Current mission** | Hackathon prototypes with real backend + frontend |
 | **Learning queue** | Explainable ML · CI/CD automation · quant risk models |
 
-## 🧩 Active modules
+## 🚘 The collection
 
-| Module | Payload | Stack |
+| Model | Payload | Stack |
 |:--|:--|:--|
 | **[`_FINSHIELD_`](https://github.com/Sanjev300405/_FINSHIELD_)** | ONE LINE: what it detects or protects | `Python` |
 | **[`customer-churn-dashboard`](https://github.com/Sanjev300405/customer-churn-dashboard)** | Shows which customers are likely to leave, and why | `Python` |
 | **[`cicdpipeline`](https://github.com/Sanjev300405/cicdpipeline)** | Automated build, test and deploy pipeline | `TypeScript` |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
 
-## 🛠️ Arsenal
+## 🛠️ The garage
 
 <div align="center">
 
@@ -56,42 +57,42 @@ status    : [ ONLINE ]  building hackathon prototypes
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
 
-## 📡 Telemetry
+## 📊 Performance
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjev300405&show_icons=true&hide_border=false&border_color=FF0033&bg_color=0D0208&title_color=FF0033&icon_color=FF0033&text_color=E6E6E6&count_private=true&include_all_commits=true&custom_title=%3E_%20SANJEV%20STATS" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjev300405&layout=compact&hide_border=false&border_color=FF0033&bg_color=0D0208&title_color=FF0033&text_color=E6E6E6&custom_title=%3E_%20TOP%20LANGUAGES" alt="languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjev300405&show_icons=true&hide_border=false&border_color=C9A24B&bg_color=07080D&title_color=E8C766&icon_color=C9A24B&text_color=E6E1D3&count_private=true&include_all_commits=true&custom_title=SANJEV%20%C2%B7%20STATS" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjev300405&layout=compact&hide_border=false&border_color=C9A24B&bg_color=07080D&title_color=E8C766&text_color=E6E1D3&custom_title=TOP%20LANGUAGES" alt="languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjev300405&background=0D0208&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B81&dates=8B949E&stroke=8B0000&border=FF0033" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjev300405&background=07080D&ring=C9A24B&fire=E8C766&currStreakLabel=E8C766&currStreakNum=FFF3C4&sideNums=FFF3C4&sideLabels=C9A24B&dates=8F7A45&stroke=8A6A1F&border=C9A24B" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=0D0208&color=FF0033&line=FF0033&point=FFFFFF&area=true&area_color=8B0000&hide_border=true&title_color=FF0033&custom_title=%3E_%20ACTIVITY%20SIGNAL" alt="activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=07080D&color=C9A24B&line=C9A24B&point=FFF3C4&area=true&area_color=8A6A1F&hide_border=true&title_color=E8C766&custom_title=ACTIVITY%20ROUTE" alt="activity"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
 
-## 🐍 Contribution feed
+## 🛣️ The road
 
 <div align="center">
 
-<!-- Needs the snake.yml workflow to have run once. Until then this image is broken. -->
+<!-- Needs snake-gold.yml (saved as .github/workflows/snake.yml) to have run once. Until then this image is broken. -->
 <img src="https://raw.githubusercontent.com/Sanjev300405/Sanjev300405/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
 
-## 📫 Establish connection
+## 📫 Reserve a drive
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0208)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
-[![Email](https://img.shields.io/badge/EMAIL-FF0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0208)](mailto:sanjevk2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0208)](https://github.com/Sanjev300405)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-C9A24B?style=for-the-badge&logo=linkedin&logoColor=07080D&labelColor=07080D)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
+[![Email](https://img.shields.io/badge/EMAIL-C9A24B?style=for-the-badge&logo=gmail&logoColor=07080D&labelColor=07080D)](mailto:sanjevk2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-C9A24B?style=for-the-badge&logo=github&logoColor=07080D&labelColor=07080D)](https://github.com/Sanjev300405)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/car-divider.svg" width="100%" alt=""/>
