@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=720&height=45&lines=Designing+interfaces+that+feel+alive.;iOS+Liquid+Glass+%C2%B7+Motion+%C2%B7+Design+systems;Idea+%E2%86%92+Wireframe+%E2%86%92+Prototype+%E2%86%92+Ship;Welcome+to+my+corner+of+GitHub.)](https://github.com/Sanjev300405)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=720&height=45&lines=Designing+interfaces+that+feel+alive.;+%C2%B7+Motion+%C2%B7+Design+systems;Idea+%E2%86%92+Wireframe+%E2%86%92+Prototype+%E2%86%92+Ship;Welcome+to+my+corner+of+GitHub.)](https://github.com/Sanjev300405)
 
 ![Visitors](https://hits.sh/github.com/Sanjev300405.svg?style=for-the-badge&label=VISITORS&color=0A84FF&labelColor=12142B)
 ![Followers](https://img.shields.io/github/followers/Sanjev300405?style=for-the-badge&color=BF5AF2&labelColor=12142B&label=FOLLOWERS)
@@ -27,7 +27,7 @@
 
 ## ✦ Hello, I'm Sanjev
 
-I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, motion, and the calm of **iOS Liquid Glass**. I design clean systems first, then build prototypes that actually run.
+I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, motion, and the calm of ****. I design clean systems first, then build prototypes that actually run.
 
 | | What I do | In practice |
 |:--|:--|:--|
