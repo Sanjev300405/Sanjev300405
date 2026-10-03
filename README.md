@@ -1,9 +1,3 @@
-<!--
-  LIQUID GLASS THEME · UI/UX designer
-  Needs these 4 files in an `assets` folder in this same repo:
-  assets/Banner.svg · assets/Divider.svg · assets/Portfolio.svg · assets/Heartbeat.svg
-  Palette: blue #0A84FF · purple #BF5AF2 · pink #FF375F · cyan #64D2FF · night #12142B
--->
 
 <img src="assets/Banner.svg" width="100%" alt="Sanjev, UI/UX designer"/>
 
@@ -79,13 +73,13 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
-## 🫀 The design Heartbeat
+## NATURE
 
 <img src="assets/Heartbeat.svg" width="100%" alt="Research, wireframe, prototype, test, ship"/>
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
-## 📊 Numbers
+## ANALYSE
 
 <div align="center">
 
