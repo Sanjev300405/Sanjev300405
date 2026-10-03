@@ -18,9 +18,8 @@
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
-<a href="https://sanjev300405.github.io/Sanjev300405/">
-  <img src="assets/portfolio.svg" width="100%" alt="Open my portfolio"/>
-</a>
+<!-- Replace the link below with your live portfolio URL if it is different --> 
+<a href="https://sanjev300405.github.io/Sanjev300405/"> <img src="assets/portfolio.svg" width="100%" alt="Open my portfolio"/> </a> <img src="assets/divider.svg" width="100%" alt=""/>
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
