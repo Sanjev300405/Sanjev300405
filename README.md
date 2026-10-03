@@ -1,7 +1,7 @@
 <!--
   LIQUID GLASS THEME · UI/UX designer
   Needs these 4 files in an `assets` folder in this same repo:
-  assets/Banner.svg · assets/Divider.svg · assets/portfolio.svg · assets/Heartbeat.svg
+  assets/Banner.svg · assets/Divider.svg · assets/Portfolio.svg · assets/Heartbeat.svg
   Palette: blue #0A84FF · purple #BF5AF2 · pink #FF375F · cyan #64D2FF · night #12142B
 -->
 
@@ -18,8 +18,10 @@
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
-<!-- Replace the link below with your live portfolio URL if it is different --> 
-<a href="https://sanjev300405.github.io/Sanjev300405/"> <img src="assets/portfolio.svg" width="100%" alt="Open my portfolio"/> </a> <img src="assets/divider.svg" width="100%" alt=""/>
+<!-- Replace the link below with your live Portfolio URL if it is different -->
+<a href="https://sanjev300405.github.io/Sanjev300405/">
+  <img src="assets/Portfolio.svg" width="100%" alt="Open my Portfolio"/>
+</a>
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
@@ -102,7 +104,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A84FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=12142B)](https://sanjev300405.github.io/Sanjev300405/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=12142B)](https://sanjev300405.github.io/Sanjev300405/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E5CE6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12142B)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
 [![Email](https://img.shields.io/badge/EMAIL-BF5AF2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12142B)](mailto:sanjevk2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-32ADE6?style=for-the-badge&logo=github&logoColor=white&labelColor=12142B)](https://github.com/Sanjev300405)
