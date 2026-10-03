@@ -102,6 +102,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E5CE6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12142B)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
 [![Email](https://img.shields.io/badge/EMAIL-BF5AF2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12142B)](mailto:sanjevk2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FF375F?style=for-the-badge&logo=github&logoColor=white&labelColor=12142B)](https://github.com/Sanjev300405)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF9F0A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12142B)](https://www.instagram.com/_sanjev.__/)
 
 </div>
 
