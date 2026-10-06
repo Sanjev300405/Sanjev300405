@@ -62,6 +62,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 | **[`COAL-WAGON-SMARTLOAD`](https://github.com/Sanjev300405/COAL-WAGON-SMARTLOAD)** | Rail wagon load intelligence with a risk model, 3D LiDAR view and tamper-evident certificates | `Python` `FastAPI` `Streamlit` |
 | **[`customer-churn-dashboard`](https://github.com/Sanjev300405/customer-churn-dashboard)** | Shows which customers are likely to leave, and why | `Python` `Streamlit` |
 | **[`cicdpipeline`](https://github.com/Sanjev300405/cicdpipeline)** | Cloud DevOps coursework: automated build, test and deploy | `CI/CD` `AWS` |
+| **[`JALRAKSHAK-DAM-FLOOD-INTELLIGENCE`](https://github.com/Sanjev300405/JALRAKSHAK-DAM-FLOOD-INTELLIGENCE)** | JalRakshak: dam-break flood prototype that turns terrain data into a breach hydrograph, a flood-extent map and GIS exports (.shp, .kml, GeoJSON) | `Python` `FastAPI` `GIS` |
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
