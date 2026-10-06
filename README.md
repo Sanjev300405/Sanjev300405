@@ -1,11 +1,6 @@
-<!--
-  LIQUID GLASS THEME · UI/UX designer
-  Needs these 4 files in an `assets` folder in this same repo:
-  assets/banner.svg · assets/divider.svg · assets/portfolio.svg · assets/heartbeat.svg
-  Palette: blue #0A84FF · purple #BF5AF2 · pink #FF375F · cyan #64D2FF · night #12142B
--->
 
-<img src="assets/banner.svg" width="100%" alt="Sanjev, UI/UX designer, iOS Liquid Glass"/>
+
+<img src="assets/Banner.svg" width="100%" alt="Sanjev, UI/UX designer, iOS Liquid Glass"/>
 
 <div align="center">
 
@@ -16,14 +11,14 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
-<!-- Replace the link below with your live portfolio URL if it is different -->
+<!-- Replace the link below with your live Portfolio URL if it is different -->
 <a href="https://sanjev300405.github.io/Sanjev300405/">
-  <img src="assets/portfolio.svg" width="100%" alt="Open my portfolio"/>
+  <img src="assets/Portfolio.svg" width="100%" alt="Open my Portfolio"/>
 </a>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## ✦ Hello, I'm Sanjev
 
@@ -37,7 +32,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 | 🧩 | **Design systems** | Tokens, components, consistent patterns |
 | ⚙️ | **Build & ship** | FastAPI, React, ML and geospatial projects, with tests and CI |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## ◐ How I design
 
@@ -48,7 +43,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 | **Motion that explains** | Movement shows what changed and what to do next |
 | **Accessible by default** | Strong contrast, comfortable tap targets, readable type |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## ⚙️ Under the hood
 
@@ -68,7 +63,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 | **[`customer-churn-dashboard`](https://github.com/Sanjev300405/customer-churn-dashboard)** | Shows which customers are likely to leave, and why | `Python` `Streamlit` |
 | **[`cicdpipeline`](https://github.com/Sanjev300405/cicdpipeline)** | Cloud DevOps coursework: automated build, test and deploy | `CI/CD` `AWS` |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## 🧰 Toolkit
 
@@ -79,13 +74,13 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## 🧭 My process
 
 <img src="assets/heartbeat.svg" width="100%" alt="Research, wireframe, prototype, test, ship"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## 📊 Numbers
 
@@ -100,17 +95,17 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## 📫 Let's make something
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A84FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=12142B)](https://sanjev300405.github.io/Sanjev300405/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=12142B)](https://sanjev300405.github.io/Sanjev300405/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E5CE6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12142B)](https://www.linkedin.com/in/sanjev-k-6b613627b/)
 [![Email](https://img.shields.io/badge/EMAIL-BF5AF2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12142B)](mailto:sanjevk2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-32ADE6?style=for-the-badge&logo=github&logoColor=white&labelColor=12142B)](https://github.com/Sanjev300405)
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/Divider.svg" width="100%" alt=""/>
