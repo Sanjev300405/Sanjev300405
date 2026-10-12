@@ -79,7 +79,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 ## 🧭 My process
 
-<img src="assets/heartbeat.svg" width="100%" alt="Research, wireframe, prototype, test, ship"/>
+<img src="assets/Heartbeat.svg" width="100%" alt="Research, wireframe, prototype, test, ship"/>
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
