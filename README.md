@@ -83,19 +83,19 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
-## 📊 Numbers
+##  📊 Numbers
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sanjev300405&show_icons=true&hide_border=false&border_color=2E3366&bg_color=12142B&title_color=0A84FF&icon_color=BF5AF2&text_color=E8ECFF&border_radius=24&count_private=true&include_all_commits=true&custom_title=Sanjev%27s%20GitHub%20stats" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjev300405&layout=compact&hide_border=false&border_color=2E3366&bg_color=12142B&title_color=0A84FF&text_color=E8ECFF&border_radius=24&custom_title=Top%20languages" alt="languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Sanjev300405&show_icons=true&hide_border=false&border_color=2E3366&bg_color=12142B&title_color=0A84FF&icon_color=BF5AF2&text_color=E8ECFF&border_radius=24&count_private=true&include_all_commits=true&custom_title=Sanjev%27s%20GitHub%20stats" alt="Sanjev's GitHub stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanjev300405&background=12142B&ring=0A84FF&fire=FF9F0A&currStreakLabel=64D2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9FB4FF&dates=8E9BDA&stroke=2E3366&border=2E3366" alt="streak"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanjev300405&layout=compact&hide_border=false&border_color=2E3366&bg_color=12142B&title_color=0A84FF&text_color=E8ECFF&border_radius=24&custom_title=Top%20languages" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=12142B&color=64D2FF&line=0A84FF&point=FFFFFF&area=true&area_color=BF5AF2&hide_border=true&title_color=0A84FF&custom_title=Activity" alt="activity"/>
+<img src="https://streak-stats.demolab.com?user=Sanjev300405&background=12142B&ring=0A84FF&fire=FF9F0A&currStreakLabel=64D2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9FB4FF&dates=8E9BDA&stroke=2E3366&border=2E3366" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=12142B&color=64D2FF&line=0A84FF&point=FFFFFF&area=true&area_color=BF5AF2&hide_border=true&title_color=0A84FF&custom_title=Activity" alt="GitHub activity graph"/>
 
 </div>
-
 <img src="assets/Divider.svg" width="100%" alt=""/>
 
 ## 📫 Let's make something
