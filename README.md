@@ -93,7 +93,7 @@ I'm a **UI/UX designer** who obsesses over how interfaces *feel*: depth, light, 
 
 <img src="https://streak-stats.demolab.com?user=Sanjev300405&background=12142B&ring=0A84FF&fire=FF9F0A&currStreakLabel=64D2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9FB4FF&dates=8E9BDA&stroke=2E3366&border=2E3366" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjev300405&bg_color=12142B&color=64D2FF&line=0A84FF&point=FFFFFF&area=true&area_color=BF5AF2&hide_border=true&title_color=0A84FF&custom_title=Activity" alt="GitHub activity graph"/>
+
 
 </div>
 <img src="assets/Divider.svg" width="100%" alt=""/>
